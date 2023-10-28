@@ -26,5 +26,3 @@ US-11301503-B2	Autonomous content orchestration 	Servicenow, Inc.	Badarinarayan 
 US-11734502-B1	Systems and methods to maintain amends to an annotation as discrete chronological events 	Suki AI, Inc.	Badarinarayan Parthasarathi Burli, Harish Chandra Thuwal, Sai Chaitanya Ramineni	2022-12-01	2022-12-01	2023-08-22	2023-08-22	https://patents.google.com/patent/US11734502B1/en	
 
 US-11205047-B2	Hierarchical search for improved search relevance 	Servicenow, Inc.	Badarinarayan Parthasarathi Burli	2019-09-05	2019-09-05	2021-12-21	2021-12-21	https://patents.google.com/patent/US11205047B2/en
-									
-									<img width="1811" alt="image" src="https://github.com/bburli/bburli.github.io/assets/90171814/3c892d6c-d822-421f-8e35-9c899c651f43">
