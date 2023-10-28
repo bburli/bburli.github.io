@@ -7,9 +7,9 @@ I have been programming since 2005 and professionally since 2010. This site intr
 
 # Education
 
-I have a bachelor's degree in Computer science from B.V.B College of Engineering, afflicated to Visveswaraya Technological University.
-I have a post graduate diploma from Centre for development of Advanced Computing, Hyderabad.
-I have a master's degree in Data Analytics from B.I.T.S, Pilani as part of their work integrated learning programme.
+- I have a bachelor's degree in Computer science from B.V.B College of Engineering, afflicated to Visveswaraya Technological University.
+- I have a post graduate diploma from Centre for development of Advanced Computing, Hyderabad.
+- I have a master's degree in Data Analytics from B.I.T.S, Pilani as part of their work integrated learning programme.
 
 # Patents
 
